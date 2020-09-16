@@ -20,6 +20,9 @@ docs_dir: docs
 
 extra_css:
   - _static/custom.css
+  - _static/version-select.css
+extra_javascript:
+  - _static/version-select.js
 
 plugins:
   - search
